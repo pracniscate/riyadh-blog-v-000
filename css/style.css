@@ -45,7 +45,7 @@ h3 {
   margin-top: .5em;
 }
 
-h2, h3:hover {
+h2:hover, h3:hover {
   color: red;
 }
 
