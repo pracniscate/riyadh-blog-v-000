@@ -59,11 +59,6 @@ p {
   font-size: 1em;
 }
 
-p:hover {
-  font-family: fantasy;
-  font-size: 1em;
-}
-
 a {
   color: black;
   text-decoration: none;
